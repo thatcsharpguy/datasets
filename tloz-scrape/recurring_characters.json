@@ -36,7 +36,48 @@
                 "value": "Hyrule Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Mutoh\" title=\"Mutoh\">Mutoh</a> (father)<br/><a href=\"/wiki/Grog\" title=\"Grog\">Grog</a> (brother)<br/><a href=\"/wiki/Granny\" title=\"Granny\">Granny</a> (mother or grandmother)<br/>(<u><i>Majora's Mask</i></u>)<br/><a href=\"/wiki/Anju%27s_Mother\" title=\"Anju's Mother\">Mother</a><br/><a href=\"/wiki/Anju%27s_Grandmother\" title=\"Anju's Grandmother\">Grandmother</a><br/><a href=\"/wiki/Tortus\" title=\"Tortus\">Tortus</a> (deceased father)<br/><a href=\"/wiki/Kafei\" title=\"Kafei\">Kafei</a> (fianc\u00e9)<br/><a href=\"/wiki/Gampy\" title=\"Gampy\">Gampy</a> (unknown)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Mayor_Dotour\" title=\"Mayor Dotour\">Mayor Dotour</a> (Father-in-law, post game)</span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Madame_Aroma\" title=\"Madame Aroma\">Madame Aroma</a> (Mother-in-law, post game)</span></div>",
+        "kindred": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Mutoh (father)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Grog (brother)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Granny (mother or grandmother)"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Mother"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Grandmother"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Tortus (deceased father)"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Kafei (fianc\u00e9)"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Gampy (unknown)"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Spoiler: Mayor Dotour (Father-in-law, post game)"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Spoiler: Madame Aroma (Mother-in-law, post game)"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -67,7 +108,20 @@
                 "value": "Hyrule"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Tingle\" title=\"Tingle\">Tingle</a> (brother)<br/><a href=\"/wiki/Knuckle\" title=\"Knuckle\">Knuckle</a> (brother)<br/><a href=\"/wiki/David_Jr.\" title=\"David Jr.\">David Jr.</a> (adoptive brother)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Tingle (brother)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Knuckle (brother)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "David Jr. (adoptive brother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -210,7 +264,16 @@
             "Minish Cap",
             "Phantom Hourglass"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">(<u><i>Phantom Hourglass</i></u>)<br/><a href=\"/wiki/Goron_Patriarch\" title=\"Goron Patriarch\">Goron Patriarch</a><br/>(<u><i>Hyrule Warriors</i>/<i>Legends</i></u>)<br/>The Finest Goron Smithy Who Ever Lived</div>",
+        "title_s": [
+            {
+                "game": "Phantom Hourglass",
+                "value": "Goron Patriarch"
+            },
+            {
+                "game": "Hyrule Warriors/Legends",
+                "value": "The Finest Goron Smithy Who Ever Lived"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -256,7 +319,16 @@
                 "value": "Goron Island"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Medigoron\" title=\"Medigoron\">Medigoron</a> (brother)<br/>(<u><i>Phantom Hourglass</i></u>)<br/><a href=\"/wiki/Gongoron\" title=\"Gongoron\">Gongoron</a> (son)</div>",
+        "kindred": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Medigoron (brother)"
+            },
+            {
+                "game": "Phantom Hourglass",
+                "value": "Gongoron (son)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -327,7 +399,12 @@
                 "value": "Hyrule Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Borlov\" title=\"Borlov\">Borlov</a> (brother)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Borlov (brother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -372,7 +449,16 @@
                 "value": "Lorule"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Majora's Mask</i></u>)<br/>Father<br/>Wife</div>",
+        "kindred": [
+            {
+                "game": "Majora's Mask",
+                "value": "Father"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Wife"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -399,7 +485,15 @@
     {
         "name": "Dark Link",
         "first_appearance": "The Adventure of Link (1988)",
-        "appearances": "<div class=\"pi-data-value pi-font\"><i><a href=\"/wiki/Zelda_II:_The_Adventure_of_Link\" title=\"Zelda II: The Adventure of Link\">The Adventure of Link</a></i><br/><i><a href=\"/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past\" title=\"The Legend of Zelda: A Link to the Past\">A Link to the Past</a></i><br/><i><a href=\"/wiki/The_Legend_of_Zelda:_Ocarina_of_Time\" title=\"The Legend of Zelda: Ocarina of Time\">Ocarina of Time</a></i><br/><i><a href=\"/wiki/The_Legend_of_Zelda:_Oracle_of_Ages\" title=\"The Legend of Zelda: Oracle of Ages\">Oracle of Ages</a></i><br/><i><a href=\"/wiki/The_Legend_of_Zelda:_Twilight_Princess\" title=\"The Legend of Zelda: Twilight Princess\">Twilight Princess</a></i><br/><i><a href=\"/wiki/The_Legend_of_Zelda:_Spirit_Tracks\" title=\"The Legend of Zelda: Spirit Tracks\">Spirit Tracks</a></i><br/><i><a href=\"/wiki/The_Legend_of_Zelda:_Tri_Force_Heroes\" title=\"The Legend of Zelda: Tri Force Heroes\">Tri Force Heroes</a></i></div>",
+        "appearances": [
+            "The Adventure of Link",
+            "A Link to the Past",
+            "Ocarina of Time",
+            "Oracle of Ages",
+            "Twilight Princess",
+            "Spirit Tracks",
+            "Tri Force Heroes"
+        ],
         "location_s": [
             {
                 "game": "The Adventure of Link",
@@ -452,7 +546,24 @@
                 "value": "Hyrule"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">Deceased Father<br/><a href=\"/wiki/Tingle\" title=\"Tingle\">Tingle</a> (adoptive brother)<br/><a href=\"/wiki/Ankle\" title=\"Ankle\">Ankle</a> (adoptive brother)<br/><a href=\"/wiki/Knuckle\" title=\"Knuckle\">Knuckle</a> (adoptive brother)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Deceased Father"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Tingle (adoptive brother)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Ankle (adoptive brother)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Knuckle (adoptive brother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -513,7 +624,16 @@
                 "value": "Distant Nebula"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Farore_(goddess)\" title=\"Farore (goddess)\">Farore</a> (sister)<br/><a href=\"/wiki/Nayru_(goddess)\" title=\"Nayru (goddess)\">Nayru</a> (sister)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Farore (sister)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Nayru (sister)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -543,7 +663,20 @@
             "Hyrule Warriors",
             "Hyrule Warriors Legends"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">(<u><i>Hyrule Warriors/Legends</i></u>)<br/><a href=\"/wiki/Epona_of_Time\" title=\"Epona of Time\">Epona of Time</a><br/><a href=\"/wiki/Twilight_Epona\" title=\"Twilight Epona\">Twilight Epona</a><br/>(<u><i>Breath of the Wild</i></u>)<br/>The Horse of Legend</div>",
+        "title_s": [
+            {
+                "game": "Hyrule Warriors/Legends",
+                "value": "Epona of Time"
+            },
+            {
+                "game": "Hyrule Warriors/Legends",
+                "value": "Twilight Epona"
+            },
+            {
+                "game": "Breath of the Wild",
+                "value": "The Horse of Legend"
+            }
+        ],
         "gender": "Female",
         "homeland": [
             {
@@ -565,7 +698,32 @@
                 "value": "Lon Lon Ranch"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Malon\" title=\"Malon\">Malon</a> (Owner/Caretaker)<br/><a href=\"/wiki/Talon\" title=\"Talon\">Talon</a> (Owner)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Ingo\" title=\"Ingo\">Ingo</a> (former owner)</span><br/><a href=\"/wiki/Link\" title=\"Link\">Link</a> (Owner)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Romani\" title=\"Romani\">Romani</a> (Caretaker/Friend)</span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Cremia\" title=\"Cremia\">Cremia</a> (Caretaker)</span></div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Malon (Owner/Caretaker)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Talon (Owner)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Ingo (former owner)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Link (Owner)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Romani (Caretaker/Friend)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Cremia (Caretaker)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -627,7 +785,9 @@
                 "value": "Fairy"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Octorok\" title=\"Octorok\">Octorok</a></div>"
+        "alternate_form_s": [
+            "Octorok"
+        ]
     },
     {
         "name": "Farore (oracle)",
@@ -637,7 +797,12 @@
             "Oracle of Seasons",
             "The Minish Cap"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">Oracle of Secrets</div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Oracle of Secrets"
+            }
+        ],
         "gender": "Female",
         "race": [
             {
@@ -669,7 +834,16 @@
                 "value": "Distant Nebula"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Din_(goddess)\" title=\"Din (goddess)\">Din</a> (sister)<br/><a href=\"/wiki/Nayru_(goddess)\" title=\"Nayru (goddess)\">Nayru</a> (sister)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Din (sister)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Nayru (sister)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -690,7 +864,12 @@
             "Ocarina of Time",
             "Majora's Mask"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">The Younger</div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "The Younger"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -712,7 +891,12 @@
                 "value": "Ikana Graveyard"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Sharp\" title=\"Sharp\">Sharp</a> (brother)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Sharp (brother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -759,7 +943,44 @@
             "A Link Between Worlds",
             "Breath of the Wild"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">Demon King<br/>King of Darkness<br/>King of Evil<br/>Prince of Darkness<br/>Dark Beast<br/>The Calamity<br/>Calamitous One<br/>Great Calamity<br/>(<u><i>Hyrule Warriors</i>/<i>Legends</i></u>)<br/>Dark Ruler</div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Demon King"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "King of Darkness"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "King of Evil"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Prince of Darkness"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Dark Beast"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "The Calamity"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Calamitous One"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Great Calamity"
+            },
+            {
+                "game": "Hyrule Warriors/Legends",
+                "value": "Dark Ruler"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -767,7 +988,28 @@
                 "value": "Hyrule"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Malice\" title=\"Malice\">Malice</a> (creation/toxic essence)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Fireblight_Ganon\" title=\"Fireblight Ganon\">Fireblight Ganon</a> (creation/phantom)</span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Thunderblight_Ganon\" title=\"Thunderblight Ganon\">Thunderblight Ganon</a> (creation/phantom)</span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Waterblight_Ganon\" title=\"Waterblight Ganon\">Waterblight Ganon</a> (creation/phantom)</span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Windblight_Ganon\" title=\"Windblight Ganon\">Windblight Ganon</a> (creation/phantom)</span></div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Malice (creation/toxic essence)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Fireblight Ganon (creation/phantom)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Thunderblight Ganon (creation/phantom)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Waterblight Ganon (creation/phantom)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Windblight Ganon (creation/phantom)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -778,8 +1020,15 @@
                 "value": "Demon"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\"><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Yuga_Ganon\" title=\"Yuga Ganon\">Yuga Ganon</a></span><br/><a href=\"/wiki/Calamity_Ganon\" title=\"Calamity Ganon\">Calamity Ganon</a> (incomplete form)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Dark_Beast_Ganon\" title=\"Dark Beast Ganon\">Dark Beast Ganon</a> (berserker form)</span></div>",
-        "alternate_form_of": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Ganondorf\" title=\"Ganondorf\">Ganondorf</a> (true form)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Agahnim\" title=\"Agahnim\">Agahnim</a> (alter-ego)</span></div>",
+        "alternate_form_s": [
+            "Spoiler: Yuga Ganon",
+            "Calamity Ganon (incomplete form)",
+            "Spoiler: Dark Beast Ganon (berserker form)"
+        ],
+        "alternate_form_of": [
+            "Ganondorf (true form)",
+            "Spoiler: Agahnim (alter-ego)"
+        ],
         "affiliation_s": [
             {
                 "game": "ORIGINAL",
@@ -801,7 +1050,32 @@
             "Hyrule Warriors",
             "Hyrule Warriors Legends"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">Gerudo King of Thieves<br/>Great King of Evil<br/>Dark Lord<br/>Prince of Darkness<br/>Demon King<br/>Emperor of the Dark Realm<sup class=\"reference\" id=\"cite_ref-Emperor_of_the_Dark_Realm_0-0\"><a href=\"#cite_note-Emperor_of_the_Dark_Realm-0\">[1]</a></sup></div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Gerudo King of Thieves"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Great King of Evil"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Dark Lord"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Prince of Darkness"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Demon King"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Emperor of the Dark Realm[1]"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -819,14 +1093,33 @@
                 "value": "Gerudo Village"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Koume_and_Kotake\" title=\"Koume and Kotake\">Koume and Kotake</a> (surrogate mothers)<br/><a href=\"/wiki/Phantom_Ganon\" title=\"Phantom Ganon\">Phantom Ganon</a> (Creation/Servant)<br/><a href=\"/wiki/Ganondorf%27s_Steed\" title=\"Ganondorf's Steed\">Ganondorf's Steed</a> (Horse)</div>",
+        "kindred": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Koume and Kotake (surrogate mothers)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Phantom Ganon (Creation/Servant)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Ganondorf's Steed (Horse)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
                 "value": "Gerudo"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Ganon\" title=\"Ganon\">Ganon</a><br/>(<u><i>A Link to the Past</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Agahnim\" title=\"Agahnim\">Agahnim</a> (alter-ego)</span><br/>(<u><i>Twilight Princess</i></u>)<br/><a href=\"/wiki/Ganondorf#Powers_and_Abilities\" title=\"Ganondorf\">Ganondorf's Malice</a> (Twilight form)</div>"
+        "alternate_form_s": [
+            "Ganon",
+            "(A Link to the Past)",
+            "Spoiler: Agahnim (alter-ego)",
+            "(Twilight Princess)",
+            "Ganondorf's Malice (Twilight form)"
+        ]
     },
     {
         "name": "Ganondorf's Steed",
@@ -843,7 +1136,12 @@
                 "value": "Hyrule"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Ganondorf\" title=\"Ganondorf\">Ganondorf</a> (owner)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Ganondorf (owner)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -906,7 +1204,12 @@
                 "value": "Tetra's Pirate Ship"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Alfonzo\" title=\"Alfonzo\">Alfonzo</a> (Grandson)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Alfonzo (Grandson)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -948,7 +1251,12 @@
                 "value": "Hyrule Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Majora's Mask</i></u>)<br/><a href=\"/wiki/Gorman_Brothers\" title=\"Gorman Brothers\">Gorman Brothers</a> (brothers)</div>",
+        "kindred": [
+            {
+                "game": "Majora's Mask",
+                "value": "Gorman Brothers (brothers)"
+            }
+        ],
         "race": [
             {
                 "game": "Majora's Mask",
@@ -974,7 +1282,12 @@
             "The Wind Waker",
             "Breath of the Wild"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">(<u><i>The Wind Waker</i></u>)<br/>Earth Spirit</div>",
+        "title_s": [
+            {
+                "game": "The Wind Waker",
+                "value": "Earth Spirit"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -1004,7 +1317,28 @@
                 "value": "Great Hyrule Forest"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Deku_Tree_Sprout\" title=\"Deku Tree Sprout\">Deku Tree Sprout</a> (son)<br/><a href=\"/wiki/Kokiri\" title=\"Kokiri\">Kokiri</a> (unclear relation)<br/><a href=\"/wiki/Hero%27s_Shade\" title=\"Hero's Shade\">Link</a> (<a href=\"/wiki/Link\" title=\"Link\">adoptive son</a>)<br/>(<u><i>The Wind Waker</i></u>)<br/><a href=\"/wiki/Korok\" title=\"Korok\">Koroks</a> (children)<br/>(<u><i>Breath of the Wild</i></u>)<br/><a href=\"/wiki/Korok\" title=\"Korok\">Koroks</a></div>",
+        "kindred": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Deku Tree Sprout (son)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Kokiri (unclear relation)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Link (adoptive son)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Koroks (children)"
+            },
+            {
+                "game": "Breath of the Wild",
+                "value": "Koroks"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -1092,14 +1426,21 @@
                 "value": "Great Fairy Fountain"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>The Wind Waker &amp; Four Swords Adventure</i></u>)<br/><a href=\"/wiki/Queen_of_Fairies\" title=\"Queen of Fairies\">Queen of Fairies</a></div>",
+        "kindred": [
+            {
+                "game": "The Wind Waker & Four Swords Adventure",
+                "value": "Queen of Fairies"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
                 "value": "Fairy"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Stray_Fairy\" title=\"Stray Fairy\">Stray Fairies</a></div>",
+        "alternate_form_s": [
+            "Stray Fairies"
+        ],
         "affiliation_s": [
             {
                 "game": "Hyrule Warriors",
@@ -1135,7 +1476,24 @@
                 "value": "Cucco Shack"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Mutoh\" title=\"Mutoh\">Mutoh</a> (father)<br/><a href=\"/wiki/Anju\" title=\"Anju\">Anju</a> (sister)<br/><a href=\"/wiki/Granny\" title=\"Granny\">Granny</a> (mother or grandmother)<br/>(<u><i>Majora's Mask</i></u>)<br/>Grandfather</div>",
+        "kindred": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Mutoh (father)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Anju (sister)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Granny (mother or grandmother)"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Grandfather"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -1273,7 +1631,12 @@
                 "value": "Clock Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">Possibly each other (husband and wife)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Possibly each other (husband and wife)"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -1297,7 +1660,12 @@
             "Skyward Sword",
             "Breath of the Wild"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Seven_Sages_(Ocarina_of_Time)#Impa.2C_Sage_of_Shadow\" title=\"Seven Sages (Ocarina of Time)\">Sage of Shadow</a></span></div>",
+        "title_s": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Spoiler: Sage of Shadow"
+            }
+        ],
         "gender": "Female",
         "homeland": [
             {
@@ -1323,7 +1691,16 @@
                 "value": "Kakariko Village"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Breath of the Wild</i></u>)<br/><a href=\"/wiki/Purah\" title=\"Purah\">Purah</a> (older sister)<br/><a href=\"/wiki/Paya\" title=\"Paya\">Paya</a> (granddaughter)</div>",
+        "kindred": [
+            {
+                "game": "Breath of the Wild",
+                "value": "Purah (older sister)"
+            },
+            {
+                "game": "Breath of the Wild",
+                "value": "Paya (granddaughter)"
+            }
+        ],
         "race": [
             {
                 "game": "The Legend of Zelda",
@@ -1358,7 +1735,10 @@
                 "value": "Sheikah"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\">(<u><i>Skyward Sword</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Old_Woman\" title=\"Old Woman\">Old Woman</a></span></div>",
+        "alternate_form_s": [
+            "(Skyward Sword)",
+            "Spoiler: Old Woman"
+        ],
         "affiliation_s": [
             {
                 "game": "Ocarina of Time",
@@ -1427,7 +1807,20 @@
                 "value": "Hyrule Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>The Wind Waker</i></u>)<br/><a href=\"/wiki/Abe\" title=\"Abe\">Abe</a> (father)<br/><a href=\"/wiki/Rose\" title=\"Rose\">Rose</a> (mother)<br/><a href=\"/wiki/Zill\" title=\"Zill\">Zill</a> (brother)</div>",
+        "kindred": [
+            {
+                "game": "The Wind Waker",
+                "value": "Abe (father)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Rose (mother)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Zill (brother)"
+            }
+        ],
         "race": [
             {
                 "game": "The Wind Waker",
@@ -1449,7 +1842,9 @@
         ],
         "gender": "Male",
         "race": [],
-        "alternate_form_of": "<div class=\"pi-data-value pi-font\"><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Rauru\" title=\"Rauru\">Rauru</a></span></div>",
+        "alternate_form_of": [
+            "Spoiler: Rauru"
+        ],
         "affiliation_s": [
             {
                 "game": "ORIGINAL",
@@ -1518,7 +1913,20 @@
                 "value": "Hyrule"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Tingle\" title=\"Tingle\">Tingle</a> (brother)<br/><a href=\"/wiki/Ankle\" title=\"Ankle\">Ankle</a> (brother)<br/><a href=\"/wiki/David_Jr.\" title=\"David Jr.\">David Jr.</a> (adoptive brother)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Tingle (brother)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Ankle (brother)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "David Jr. (adoptive brother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -1557,7 +1965,16 @@
                 "value": "Southern Swamp"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">Each other (twin sisters)<br/><a href=\"/wiki/Ganondorf\" title=\"Ganondorf\">Ganondorf</a> (surrogate son)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Each other (twin sisters)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Ganondorf (surrogate son)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -1594,7 +2011,140 @@
             "Tri Force Heroes",
             "Breath of the Wild"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">(<u><i>The Legend of Zelda</i></u>)<br/>Hero of Hyrule<br/>(<u><i>A Link to the Past</i></u>)<br/>Legendary Hero<br/>(<u><i>Link's Awakening</i></u>)<br/>The Hero<br/>THIEF<br/>(<u><i>Ocarina of Time</i></u>)<br/>Hero of Time<br/>Sworn Brother of the <a href=\"/wiki/Goron\" title=\"Goron\">Gorons</a><br/>(<u><i>Majora's Mask</i></u>)<br/>Grasshopper<br/>Master of the <a href=\"/wiki/Rosa_Sisters\" title=\"Rosa Sisters\">Rosa Sisters</a><br/>(<u><i>Oracle of Ages</i></u>)<br/>Hero of the <a href=\"/wiki/Essences_of_Time\" title=\"Essences of Time\">Essences of Time</a> and <a href=\"/wiki/Essences_of_Nature\" title=\"Essences of Nature\">Nature</a><br/>(<u><i>Oracle of Seasons</i></u>)<br/>Hero of the <a href=\"/wiki/Essences_of_Time\" title=\"Essences of Time\">Essences of Time</a> and <a href=\"/wiki/Essences_of_Nature\" title=\"Essences of Nature\">Nature</a><br/>(<u><i>The Wind Waker</i></u>)<br/>Hero of Winds<br/>Waker of the Winds<br/>Page<br/>Knight<br/>Swordsman<br/>Small Fry<br/>(<u><i>Twilight Princess</i></u>)<br/>Hero Chosen by the Gods<br/>Blue Eyed Beast<br/>Hero's Shade<br/>(<u><i>Phantom Hourglass</i></u>)<br/>Hero Chosen by the Ocean King<br/>Apprentice to the Hero<br/>Half a Hero<br/>Two-Thirds of a Hero<br/>Goro-Link<br/>(<u><i>Spirit Tracks</i></u>)<br/><a href=\"/wiki/Royal_Engineer\" title=\"Royal Engineer\">Royal Engineer</a><br/>Captain<br/>(<u><i>Skyward Sword</i></u>)<br/>The Goddess's Chosen Hero<br/>Goddess's Knight<br/>Hero Of Legend<br/>(<u><i>A Link Between Worlds</i></u>)<br/>Hero of Hyrule<br/>(<u><i>Breath of The Wild</i></u>)<br/>Hero of Hyrule<br/><a href=\"/wiki/Champions\" title=\"Champions\">Hylian Champion</a><br/>Imperial Guard Captain</div>",
+        "title_s": [
+            {
+                "game": "The Legend of Zelda",
+                "value": "Hero of Hyrule"
+            },
+            {
+                "game": "A Link to the Past",
+                "value": "Legendary Hero"
+            },
+            {
+                "game": "Link's Awakening",
+                "value": "The Hero"
+            },
+            {
+                "game": "Link's Awakening",
+                "value": "THIEF"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Hero of Time"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Sworn Brother of the Gorons"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Grasshopper"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Master of the Rosa Sisters"
+            },
+            {
+                "game": "Oracle of Ages",
+                "value": "Hero of the Essences of Time and Nature"
+            },
+            {
+                "game": "Oracle of Seasons",
+                "value": "Hero of the Essences of Time and Nature"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Hero of Winds"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Waker of the Winds"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Page"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Knight"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Swordsman"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Small Fry"
+            },
+            {
+                "game": "Twilight Princess",
+                "value": "Hero Chosen by the Gods"
+            },
+            {
+                "game": "Twilight Princess",
+                "value": "Blue Eyed Beast"
+            },
+            {
+                "game": "Twilight Princess",
+                "value": "Hero's Shade"
+            },
+            {
+                "game": "Phantom Hourglass",
+                "value": "Hero Chosen by the Ocean King"
+            },
+            {
+                "game": "Phantom Hourglass",
+                "value": "Apprentice to the Hero"
+            },
+            {
+                "game": "Phantom Hourglass",
+                "value": "Half a Hero"
+            },
+            {
+                "game": "Phantom Hourglass",
+                "value": "Two-Thirds of a Hero"
+            },
+            {
+                "game": "Phantom Hourglass",
+                "value": "Goro-Link"
+            },
+            {
+                "game": "Spirit Tracks",
+                "value": "Royal Engineer"
+            },
+            {
+                "game": "Spirit Tracks",
+                "value": "Captain"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "The Goddess's Chosen Hero"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "Goddess's Knight"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "Hero Of Legend"
+            },
+            {
+                "game": "A Link Between Worlds",
+                "value": "Hero of Hyrule"
+            },
+            {
+                "game": "Breath of The Wild",
+                "value": "Hero of Hyrule"
+            },
+            {
+                "game": "Breath of The Wild",
+                "value": "Hylian Champion"
+            },
+            {
+                "game": "Breath of The Wild",
+                "value": "Imperial Guard Captain"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -1644,14 +2194,95 @@
                 "value": "Hylian Homeowner"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Epona\" title=\"Epona\">Epona</a> (faithful steed)<br/>(<u><i>A Link to the Past</i></u>)<br/><a href=\"/wiki/Link%27s_Uncle\" title=\"Link's Uncle\">Uncle</a><br/>(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Navi\" title=\"Navi\">Navi</a> (Guardian Fairy)<br/><a href=\"/wiki/Link%27s_Mother\" title=\"Link's Mother\">Deceased Mother</a><br/><a href=\"/wiki/Darunia\" title=\"Darunia\">Darunia</a> (sworn brother)<br/>(<u><i>The Wind Waker</i></u>)<br/><a href=\"/wiki/Aryll\" title=\"Aryll\">Aryll</a> (sister)<br/><a href=\"/wiki/Link%27s_Grandma\" title=\"Link's Grandma\">Grandmother</a><br/>(<u><i>The Minish Cap</i></u>)<br/><a href=\"/wiki/Smith\" title=\"Smith\">Smith</a> (grandfather)<br/>(<u><i>Twilight Princess</i></u>)<br/><a href=\"/wiki/Hero%27s_Shade\" title=\"Hero's Shade\">Hero's Shade</a> (incarnation/ancestor)<br/>(<u><i>Skyward Sword</i></u>)<br/><a href=\"/wiki/Crimson_Loftwing\" title=\"Crimson Loftwing\">Crimson Loftwing</a> (bonded Loftwing)<br/>(<u><i>Breath of the Wild]]</i></u>)<br/>Registered <a href=\"/wiki/Horse\" title=\"Horse\">Horses</a><br/><a href=\"/wiki/Link%27s_Father\" title=\"Link's Father\">Father</a></div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Epona (faithful steed)"
+            },
+            {
+                "game": "A Link to the Past",
+                "value": "Uncle"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Navi (Guardian Fairy)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Deceased Mother"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Darunia (sworn brother)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Aryll (sister)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Grandmother"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "Smith (grandfather)"
+            },
+            {
+                "game": "Twilight Princess",
+                "value": "Hero's Shade (incarnation/ancestor)"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "Crimson Loftwing (bonded Loftwing)"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "(Breath of the Wild]])"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "Registered Horses"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "Father"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
                 "value": "Hylian"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\">(<u><i>The Adventure of Link</i></u>)<br/><a href=\"/wiki/Fairy_Spell\" title=\"Fairy Spell\">Fairy</a><br/>(<u><i>A Link to the Past</i></u>)<br/><a href=\"/wiki/Bunny_Link\" title=\"Bunny Link\">Bunny</a><br/>(<u><i>Majora's Mask</i></u>)<br/><a href=\"/wiki/Deku_Link\" title=\"Deku Link\">Deku Link</a><br/><a href=\"/wiki/Goron_Link\" title=\"Goron Link\">Goron Link</a><br/><a href=\"/wiki/Zora_Link\" title=\"Zora Link\">Zora Link</a><br/><a href=\"/wiki/Fierce_Deity\" title=\"Fierce Deity\">Fierce Deity</a><br/><a href=\"/wiki/Giant_Link\" title=\"Giant Link\">Giant Link</a><br/>(<u><i>Oracle of Ages</i></u>)<br/><a href=\"/wiki/Blue_Stalfos#Battle\" title=\"Blue Stalfos\">Baby</a><br/><a href=\"/wiki/Like_Like_Ring\" title=\"Like Like Ring\">Like Like</a><br/><a href=\"/wiki/Moblin_Ring\" title=\"Moblin Ring\">Moblin</a><br/><a href=\"/wiki/Octo_Ring\" title=\"Octo Ring\">Octorok</a><br/><a href=\"/wiki/Subrosian_Ring\" title=\"Subrosian Ring\">Subrosian</a><br/>(<u><i>Oracle of Seasons</i></u>)<br/><a href=\"/wiki/Like_Like_Ring\" title=\"Like Like Ring\">Like Like</a><br/><a href=\"/wiki/Moblin_Ring\" title=\"Moblin Ring\">Moblin</a><br/><a href=\"/wiki/Octo_Ring\" title=\"Octo Ring\">Octorok</a><br/><a href=\"/wiki/Subrosian_Ring\" title=\"Subrosian Ring\">Subrosian</a><br/>(<u><i>Four Swords</i></u>)<br/><a href=\"/wiki/Tiny_Link\" title=\"Tiny Link\">Tiny</a><br/>(<u><i>The Minish Cap</i></u>)<br/><a href=\"/wiki/Tiny_Link\" title=\"Tiny Link\">Tiny</a><br/>(<u><i>Twilight Princess</i></u>)<br/><a href=\"/wiki/Wolf_Link\" title=\"Wolf Link\">Wolf</a></div>",
+        "alternate_form_s": [
+            "(The Adventure of Link)",
+            "Fairy",
+            "(A Link to the Past)",
+            "Bunny",
+            "(Majora's Mask)",
+            "Deku Link",
+            "Goron Link",
+            "Zora Link",
+            "Fierce Deity",
+            "Giant Link",
+            "(Oracle of Ages)",
+            "Baby",
+            "Like Like",
+            "Moblin",
+            "Octorok",
+            "Subrosian",
+            "(Oracle of Seasons)",
+            "Like Like",
+            "Moblin",
+            "Octorok",
+            "Subrosian",
+            "(Four Swords)",
+            "Tiny",
+            "(The Minish Cap)",
+            "Tiny",
+            "(Twilight Princess)",
+            "Wolf"
+        ],
         "age": "Approximately 9-117 (varies between games)",
         "affiliation_s": [
             {
@@ -1814,7 +2445,16 @@
                 "value": "Hyrule Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Talon\" title=\"Talon\">Talon</a> (father)<br/>Deceased Mother</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Talon (father)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Deceased Mother"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -1825,7 +2465,11 @@
                 "value": "Human"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\">(<u><i>Majora's Mask</i></u>)<br/><a href=\"/wiki/Romani\" title=\"Romani\">Romani</a> (younger)<br/><a href=\"/wiki/Cremia\" title=\"Cremia\">Cremia</a> (older)</div>"
+        "alternate_form_s": [
+            "(Majora's Mask)",
+            "Romani (younger)",
+            "Cremia (older)"
+        ]
     },
     {
         "name": "Mamamu Yan",
@@ -1864,7 +2508,12 @@
                 "value": "Lynna City"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Oracle of Ages</i></u>)<br/>Mother</div>",
+        "kindred": [
+            {
+                "game": "Oracle of Ages",
+                "value": "Mother"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -1908,7 +2557,12 @@
                 "value": "West Clock Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Majora's Mask</i></u>)<br/><a href=\"/wiki/Old_Lady_from_Bomb_Shop\" title=\"Old Lady from Bomb Shop\">Old Lady from Bomb Shop</a> (mother)</div>",
+        "kindred": [
+            {
+                "game": "Majora's Mask",
+                "value": "Old Lady from Bomb Shop (mother)"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -1982,7 +2636,12 @@
                 "value": "Holodrum"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Syrup\" title=\"Syrup\">Syrup</a> (grandmother)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Syrup (grandmother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2018,7 +2677,12 @@
                 "value": "Goron Village"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Biggoron\" title=\"Biggoron\">Biggoron</a> (brother)</div>",
+        "kindred": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Biggoron (brother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2128,7 +2792,28 @@
                 "value": "Hyrule"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/Anju\" title=\"Anju\">Anju</a> (daughter)<br/><a href=\"/wiki/Granny\" title=\"Granny\">Granny</a> (wife or mother)<br/><a href=\"/wiki/Grog\" title=\"Grog\">Grog</a> (son)<br/>(<u><i>Majora's Mask</i></u>)<br/>Wife<br/>Sons</div>",
+        "kindred": [
+            {
+                "game": "Ocarina of Time",
+                "value": "Anju (daughter)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Granny (wife or mother)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Grog (son)"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Wife"
+            },
+            {
+                "game": "Majora's Mask",
+                "value": "Sons"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -2214,7 +2899,16 @@
                 "value": "Distant Nebula"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Din_(goddess)\" title=\"Din (goddess)\">Din</a> (sister)<br/><a href=\"/wiki/Farore_(goddess)\" title=\"Farore (goddess)\">Farore</a> (sister)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Din (sister)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Farore (sister)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2273,7 +2967,12 @@
             "Four Swords Adventures",
             "Breath of the Wild"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\"><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/King_of_Hyrule\" title=\"King of Hyrule\">The Last King of Hyrule</a></span></div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: The Last King of Hyrule"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -2313,7 +3012,10 @@
                 "value": "Hylian"
             }
         ],
-        "alternate_form_of": "<div class=\"pi-data-value pi-font\">(<u><i>Breath of the Wild</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Rhoam_Bosphoramus_Hyrule\" title=\"Rhoam Bosphoramus Hyrule\">Rhoam Bosphoramus Hyrule</a></span></div>",
+        "alternate_form_of": [
+            "(Breath of the Wild)",
+            "Spoiler: Rhoam Bosphoramus Hyrule"
+        ],
         "affiliation_s": [
             {
                 "game": "ORIGINAL",
@@ -2351,7 +3053,10 @@
                 "value": "Sheikah"
             }
         ],
-        "alternate_form_of": "<div class=\"pi-data-value pi-font\">(<u><i>Skyward Sword</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Impa\" title=\"Impa\">Impa</a></span></div>"
+        "alternate_form_of": [
+            "(Skyward Sword)",
+            "Spoiler: Impa"
+        ]
     },
     {
         "name": "Phantom Ganon",
@@ -2362,7 +3067,12 @@
             "Four Swords Adventures",
             "Hyrule Warriors Legends"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">Evil Spirit from Beyond</div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Evil Spirit from Beyond"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -2380,7 +3090,16 @@
                 "value": "Ganon's Tower"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Ganondorf\" title=\"Ganondorf\">Ganondorf</a> (Creator/Master)<br/>(<u><i>Hyrule Warriors Legends</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Dark_Cia\" title=\"Dark Cia\">Dark Cia</a> (Creation/Servant)</span></div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Ganondorf (Creator/Master)"
+            },
+            {
+                "game": "Hyrule Warriors Legends",
+                "value": "Spoiler: Dark Cia (Creation/Servant)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2409,7 +3128,20 @@
             "A Link Between Worlds",
             "Breath of the Wild"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">Princess of Hyrule<br/>(<u><i>Skyward Sword</i></u>)<br/>Spirit Maiden<br/>(<u><i>Ocarina of Time</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> The Seventh Sage</span></div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Princess of Hyrule"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "Spirit Maiden"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "Spoiler: The Seventh Sage"
+            }
+        ],
         "gender": "Female",
         "homeland": [
             {
@@ -2439,7 +3171,60 @@
                 "value": "Skyloft"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>The Adventure of Link</i></u>)<br/><a class=\"mw-redirect\" href=\"/wiki/King_of_Hyrule_(The_Adventure_of_Link)\" title=\"King of Hyrule (The Adventure of Link)\">King of Hyrule</a> (father)<br/><a href=\"/wiki/Prince_of_Hyrule\" title=\"Prince of Hyrule\">Prince of Hyrule</a> (brother)<br/>(<u><i>A Link to the Past</i></u>)<br/><a href=\"/wiki/King_of_Hyrule_(A_Link_to_the_Past)\" title=\"King of Hyrule (A Link to the Past)\">King of Hyrule</a> (father)<br/>(<u><i>Ocarina of Time</i></u>)<br/><a href=\"/wiki/King_of_Hyrule_(Ocarina_of_Time)\" title=\"King of Hyrule (Ocarina of Time)\">King of Hyrule</a> (father)<br/>(<u><i>The Wind Waker</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Daphnes_Nohansen_Hyrule\" title=\"Daphnes Nohansen Hyrule\">Daphnes Nohansen Hyrule</a> (ancestor)</span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Tetra%27s_Mother\" title=\"Tetra's Mother\">Deceased Mother</a></span><br/>(<u><i>The Minish Cap</i></u>)<br/><a href=\"/wiki/King_Daltus\" title=\"King Daltus\">King Daltus</a> (father)<br/><a href=\"/wiki/King_Gustaf\" title=\"King Gustaf\">King Gustaf</a> (ancestor)<br/>(<u><i>Spirit Tracks</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Tetra\" title=\"Tetra\">Tetra</a> (grandmother)</span><br/>(<u><i>Skyward Sword</i></u>)<br/><a href=\"/wiki/Gaepora\" title=\"Gaepora\">Gaepora</a> (father)<br/>(<u><i>A Link Between Worlds</i></u>)<br/><a href=\"/wiki/Princess_Hilda\" title=\"Princess Hilda\">Princess Hilda</a> (Lorule counterpart)<br/>(<u><i>Breath of the Wild</i></u>)<br/><a href=\"/wiki/Rhoam_Bosphoramus_Hyrule\" title=\"Rhoam Bosphoramus Hyrule\">Rhoam Bosphoramus Hyrule</a> (father)<br/><a href=\"/wiki/Zelda%27s_Mother\" title=\"Zelda's Mother\">Queen of Hyrule</a> (mother)</div>",
+        "kindred": [
+            {
+                "game": "The Adventure of Link",
+                "value": "King of Hyrule (father)"
+            },
+            {
+                "game": "The Adventure of Link",
+                "value": "Prince of Hyrule (brother)"
+            },
+            {
+                "game": "A Link to the Past",
+                "value": "King of Hyrule (father)"
+            },
+            {
+                "game": "Ocarina of Time",
+                "value": "King of Hyrule (father)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Spoiler: Daphnes Nohansen Hyrule (ancestor)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Spoiler: Deceased Mother"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "King Daltus (father)"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "King Gustaf (ancestor)"
+            },
+            {
+                "game": "Spirit Tracks",
+                "value": "Spoiler: Tetra (grandmother)"
+            },
+            {
+                "game": "Skyward Sword",
+                "value": "Gaepora (father)"
+            },
+            {
+                "game": "A Link Between Worlds",
+                "value": "Princess Hilda (Lorule counterpart)"
+            },
+            {
+                "game": "Breath of the Wild",
+                "value": "Rhoam Bosphoramus Hyrule (father)"
+            },
+            {
+                "game": "Breath of the Wild",
+                "value": "Queen of Hyrule (mother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2458,8 +3243,21 @@
                 "value": "Ghost"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\">(<u><i>Ocarina of Time</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Sheik\" title=\"Sheik\">Sheik</a></span><br/>(<u><i>Twilight Princess</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Possessed_Zelda\" title=\"Possessed Zelda\">Possessed Zelda</a></span><br/>(<u><i>The Wind Waker</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Tetra\" title=\"Tetra\">Tetra</a></span><br/>(<u><i>Spirit Tracks</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Ghost_Zelda\" title=\"Ghost Zelda\">Ghost Zelda</a></span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Phantom\" title=\"Phantom\">Phantom</a></span></div>",
-        "alternate_form_of": "<div class=\"pi-data-value pi-font\">(<u><i>Skyward Sword</i></u>)<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Hylia\" title=\"Hylia\">Hylia</a></span></div>",
+        "alternate_form_s": [
+            "(Ocarina of Time)",
+            "Spoiler: Sheik",
+            "(Twilight Princess)",
+            "Spoiler: Possessed Zelda",
+            "(The Wind Waker)",
+            "Spoiler: Tetra",
+            "(Spirit Tracks)",
+            "Spoiler: Ghost Zelda",
+            "Spoiler: Phantom"
+        ],
+        "alternate_form_of": [
+            "(Skyward Sword)",
+            "Spoiler: Hylia"
+        ],
         "age": "Approximately 10-20 (varies between games)",
         "affiliation_s": [
             {
@@ -2499,7 +3297,12 @@
             "Ocarina of Time",
             "Twilight Princess"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">(<u><i>Twilight Princess</i></u>)<br/>Legendary Hyrulian Master Fisherman</div>",
+        "title_s": [
+            {
+                "game": "Twilight Princess",
+                "value": "Legendary Hyrulian Master Fisherman"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -2513,7 +3316,28 @@
                 "value": "Lake Hylia"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Man_from_the_Curiosity_Shop\" title=\"Man from the Curiosity Shop\">Man from the Curiosity Shop</a> (Terminan Counterpart)<br/><a href=\"/wiki/Man_from_the_Trading_Post\" title=\"Man from the Trading Post\">Man from the Trading Post</a> (Terminan Counterpart)<br/>(<u><i>Majora's Mask 3D</i></u>)<br/><a href=\"/wiki/Ocean_Fishing_Hole_Owner\" title=\"Ocean Fishing Hole Owner\">Ocean Fishing Hole Owner</a> (Terminan Counterpart)<br/><a href=\"/wiki/Swamp_Fishing_Hole_Owner\" title=\"Swamp Fishing Hole Owner\">Swamp Fishing Hole Owner</a> (Terminan Counterpart)<br/>(<u><i>Twilight Princess</i></u>)<br/><a href=\"/wiki/Hena\" title=\"Hena\">Hena</a> (Possible Descendant)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Man from the Curiosity Shop (Terminan Counterpart)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Man from the Trading Post (Terminan Counterpart)"
+            },
+            {
+                "game": "Majora's Mask 3D",
+                "value": "Ocean Fishing Hole Owner (Terminan Counterpart)"
+            },
+            {
+                "game": "Majora's Mask 3D",
+                "value": "Swamp Fishing Hole Owner (Terminan Counterpart)"
+            },
+            {
+                "game": "Twilight Princess",
+                "value": "Hena (Possible Descendant)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2678,7 +3502,12 @@
             "Ocarina of Time",
             "Majora's Mask"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">The Elder</div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "The Elder"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -2700,7 +3529,12 @@
                 "value": "Ikana Canyon"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Flat\" title=\"Flat\">Flat</a> (brother)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Flat (brother)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2767,7 +3601,12 @@
             "Oracle of Seasons",
             "The Minish Cap"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">The Well-Stocked</div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "The Well-Stocked"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -2832,7 +3671,16 @@
                 "value": "Hyrule Town"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Orca\" title=\"Orca\">Orca</a> (brother)<br/><a href=\"/wiki/Sue-Belle\" title=\"Sue-Belle\">Sue-Belle</a> (granddaughter)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Orca (brother)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Sue-Belle (granddaughter)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
@@ -2877,7 +3725,12 @@
             "Oracle of Seasons",
             "The Minish Cap"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">Great Witch</div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Great Witch"
+            }
+        ],
         "gender": "Female",
         "homeland": [
             {
@@ -2919,7 +3772,12 @@
                 "value": "Minish Woods"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Maple\" title=\"Maple\">Maple</a> (granddaughter)</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Maple (granddaughter)"
+            }
+        ],
         "race": [
             {
                 "game": "A Link to the Past",
@@ -2977,7 +3835,16 @@
                 "value": "Lon Lon Ranch"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><a href=\"/wiki/Malon\" title=\"Malon\">Malon</a> (daughter)<br/>Deceased Wife</div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Malon (daughter)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Deceased Wife"
+            }
+        ],
         "race": [
             {
                 "game": "Ocarina of Time",
@@ -3007,7 +3874,24 @@
             "Spirit Tracks",
             "Hyrule Warriors"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">Miss Tetra<br/>the Pirate Leader<br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> Princess Zelda</span><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> Founder of New Hyrule</span></div>",
+        "title_s": [
+            {
+                "game": "ORIGINAL",
+                "value": "Miss Tetra"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "the Pirate Leader"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Princess Zelda"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Founder of New Hyrule"
+            }
+        ],
         "gender": "Female",
         "homeland": [
             {
@@ -3015,14 +3899,29 @@
                 "value": "Great Sea"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\"><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Daphnes_Nohansen_Hyrule\" title=\"Daphnes Nohansen Hyrule\">Daphnes Nohansen Hyrule</a> (ancestor)</span><br/><a href=\"/wiki/Tetra%27s_Mother\" title=\"Tetra's Mother\">Deceased Mother</a><br/><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Princess_Zelda#The_Legend_of_Zelda:_Spirit_Tracks\" title=\"Princess Zelda\">Princess Zelda</a> (granddaughter)</span></div>",
+        "kindred": [
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Daphnes Nohansen Hyrule (ancestor)"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Deceased Mother"
+            },
+            {
+                "game": "ORIGINAL",
+                "value": "Spoiler: Princess Zelda (granddaughter)"
+            }
+        ],
         "race": [
             {
                 "game": "ORIGINAL",
                 "value": "Hylian"
             }
         ],
-        "alternate_form_of": "<div class=\"pi-data-value pi-font\"><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <a href=\"/wiki/Princess_Zelda\" title=\"Princess Zelda\">Princess Zelda</a></span></div>",
+        "alternate_form_of": [
+            "Spoiler: Princess Zelda"
+        ],
         "affiliation_s": [
             {
                 "game": "ORIGINAL",
@@ -3055,7 +3954,12 @@
             "Spirit Tracks",
             "Skyward Sword"
         ],
-        "title_s": "<div class=\"pi-data-value pi-font\">(<u><i>Hyrule Warriors</i></u>)<br/>The Reincarnated Fairy?</div>",
+        "title_s": [
+            {
+                "game": "Hyrule Warriors",
+                "value": "The Reincarnated Fairy?"
+            }
+        ],
         "gender": "Male",
         "homeland": [
             {
@@ -3089,7 +3993,48 @@
                 "value": "South Hyrule Field"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>Majora's Mask</i></u>)<br/><a href=\"/wiki/Guide\" title=\"Guide\">Guide</a> (father)<br/>(<u><i>The Wind Waker</i></u>)<br/><a href=\"/wiki/Ankle\" title=\"Ankle\">Ankle</a> (brother)<br/><a href=\"/wiki/Knuckle\" title=\"Knuckle\">Knuckle</a> (brother)<br/><a href=\"/wiki/David_Jr.\" title=\"David Jr.\">David Jr.</a> (adoptive brother)<br/>(<u><i>The Minish Cap</i></u>)<br/><a href=\"/wiki/Ankle\" title=\"Ankle\">Ankle</a> (brother)<br/><a href=\"/wiki/Knuckle\" title=\"Knuckle\">Knuckle</a> (brother)<br/><a href=\"/wiki/David_Jr.\" title=\"David Jr.\">David Jr.</a> (adoptive brother)<br/>(<u><i>Freshly-Picked Tingle's Rosy Rupeeland</i></u>)<br/><a href=\"/wiki/Tingle%27s_Uncle\" title=\"Tingle's Uncle\">Uncle</a><br/><a href=\"/wiki/Barkle\" title=\"Barkle\">Barkle</a> (pet)</div>",
+        "kindred": [
+            {
+                "game": "Majora's Mask",
+                "value": "Guide (father)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Ankle (brother)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Knuckle (brother)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "David Jr. (adoptive brother)"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "Ankle (brother)"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "Knuckle (brother)"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "David Jr. (adoptive brother)"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "(Freshly-Picked Tingle's Rosy Rupeeland)"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "Uncle"
+            },
+            {
+                "game": "The Minish Cap",
+                "value": "Barkle (pet)"
+            }
+        ],
         "race": [
             {
                 "game": "Majora's Mask",
@@ -3179,7 +4124,18 @@
                 "value": "Minish"
             }
         ],
-        "alternate_form_s": "<div class=\"pi-data-value pi-font\"><abbr style=\"color:#FF0000; font-weight:bold;\" title=\"Click to display spoiler\">Spoiler:</abbr><span style=\"display:none\"> <br/>(<u><i>The Minish Cap</i></u>)<br/><a href=\"/wiki/Hylian\" title=\"Hylian\">Hylian</a><br/><a href=\"/wiki/Vaati_Reborn\" title=\"Vaati Reborn\">Vaati Reborn</a><br/><a href=\"/wiki/Vaati_Transfigured\" title=\"Vaati Transfigured\">Vaati Transfigured</a><br/><a href=\"/wiki/Vaati%27s_Wrath\" title=\"Vaati's Wrath\">Vaati's Wrath</a></span><br/>(<u><i>Four Swords</i></u>)<br/><a href=\"/wiki/Vaati_(Four_Swords)\" title=\"Vaati (Four Swords)\">Vaati (Four Swords)</a><br/>(<u><i>Four Swords Adventures</i></u>)<br/><a href=\"/wiki/Vaati_(Four_Swords_Adventures)\" title=\"Vaati (Four Swords Adventures)\">Vaati (Four Swords Adventures)</a></div>"
+        "alternate_form_s": [
+            "Spoiler:",
+            "(The Minish Cap)",
+            "Hylian",
+            "Vaati Reborn",
+            "Vaati Transfigured",
+            "Vaati's Wrath",
+            "(Four Swords)",
+            "Vaati (Four Swords)",
+            "(Four Swords Adventures)",
+            "Vaati (Four Swords Adventures)"
+        ]
     },
     {
         "name": "Zill",
@@ -3205,7 +4161,20 @@
                 "value": "Outset Island"
             }
         ],
-        "kindred": "<div class=\"pi-data-value pi-font\">(<u><i>The Wind Waker</i></u>)<br/><a href=\"/wiki/Abe\" title=\"Abe\">Abe</a> (father)<br/><a href=\"/wiki/Rose\" title=\"Rose\">Rose</a> (mother)<br/><a href=\"/wiki/Joel\" title=\"Joel\">Joel</a> (brother)</div>",
+        "kindred": [
+            {
+                "game": "The Wind Waker",
+                "value": "Abe (father)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Rose (mother)"
+            },
+            {
+                "game": "The Wind Waker",
+                "value": "Joel (brother)"
+            }
+        ],
         "race": [
             {
                 "game": "The Wind Waker",
