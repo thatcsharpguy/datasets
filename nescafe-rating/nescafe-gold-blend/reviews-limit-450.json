@@ -2347,111 +2347,6 @@
                     "Videos": []
                 },
                 {
-                    "Id": "1042099938",
-                    "CID": "3db0f0dd-02bc-5943-9de8-bb85d5c5c12b",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2018-01-05T05:45:32.000+00:00",
-                    "LastModificationTime": "2018-01-05T05:45:33.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "CampaignId": "BV_RATING_SUMMARY",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "IncentivizedReview"
-                    ],
-                    "ClientResponses": [
-                        {
-                            "Department": "Consumer Services",
-                            "Response": "That's roast and ground coffee at the bottom of your cup and nothing to be alarmed by. We\u2019ve added this to our recipe recently. For more information, watch this video: https://www.youtube.com/watch?v=aTUCiAvWyLg&index=22&list=PLBwKOSzTG9BZFv1nKqh8ZxxTOwJaeDaT",
-                            "ResponseType": "",
-                            "ResponseSource": "Workbench",
-                            "Name": "",
-                            "Date": "2018-01-05T14:29:30.000+00:00"
-                        }
-                    ],
-                    "UserLocation": "Cambridge, United Kingdom",
-                    "AuthorId": "sguvhhinkpkacg2dh5eoxwxd8",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 9,
-                    "TotalCommentCount": 0,
-                    "Rating": 2,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": false,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "m15f9qqwrg51jcjnfnf84slz8",
-                    "SubmissionTime": "2018-01-03T08:42:36.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "The latest estimate gold blend tastes good but leaves a thick sludge in the bottom of the cup",
-                    "Title": "I like the new label",
-                    "UserNickname": "Goldy",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "65orOver",
-                            "Id": "Age"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "No",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco",
-                                "Iceland",
-                                "Aldi"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 3,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 2,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "Photos": [],
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
                     "Id": "1040566344",
                     "CID": "b092f0c1-2884-58b7-91b5-4aa370c40b92",
                     "SourceClient": "nescafe",
@@ -2930,6 +2825,111 @@
                         },
                         "Quality": {
                             "Value": 1,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "Photos": [],
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1042099938",
+                    "CID": "3db0f0dd-02bc-5943-9de8-bb85d5c5c12b",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2018-01-05T05:45:32.000+00:00",
+                    "LastModificationTime": "2018-01-05T05:45:33.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "IncentivizedReview"
+                    ],
+                    "ClientResponses": [
+                        {
+                            "Department": "Consumer Services",
+                            "Response": "That's roast and ground coffee at the bottom of your cup and nothing to be alarmed by. We\u2019ve added this to our recipe recently. For more information, watch this video: https://www.youtube.com/watch?v=aTUCiAvWyLg&index=22&list=PLBwKOSzTG9BZFv1nKqh8ZxxTOwJaeDaT",
+                            "ResponseType": "",
+                            "ResponseSource": "Workbench",
+                            "Name": "",
+                            "Date": "2018-01-05T14:29:30.000+00:00"
+                        }
+                    ],
+                    "UserLocation": "Cambridge, United Kingdom",
+                    "AuthorId": "sguvhhinkpkacg2dh5eoxwxd8",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 9,
+                    "TotalCommentCount": 0,
+                    "Rating": 2,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "m15f9qqwrg51jcjnfnf84slz8",
+                    "SubmissionTime": "2018-01-03T08:42:36.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "The latest estimate gold blend tastes good but leaves a thick sludge in the bottom of the cup",
+                    "Title": "I like the new label",
+                    "UserNickname": "Goldy",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "65orOver",
+                            "Id": "Age"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "No",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco",
+                                "Iceland",
+                                "Aldi"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 3,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 2,
                             "Id": "Quality",
                             "ValueLabel": null,
                             "ValueRange": 5,

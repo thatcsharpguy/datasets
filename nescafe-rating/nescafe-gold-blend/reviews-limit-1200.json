@@ -610,106 +610,6 @@
                     "Videos": []
                 },
                 {
-                    "Id": "1040563137",
-                    "CID": "5ab23cf6-a0e0-52b5-b9d7-e1ed8db8831e",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2017-11-09T16:15:09.000+00:00",
-                    "LastModificationTime": "2017-11-21T09:43:09.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "UserLocation": "Aylesbury, United Kingdom",
-                    "AuthorId": "hqhxyijqy4v1g9isqpvxtksu9",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 0,
-                    "TotalCommentCount": 0,
-                    "Rating": 4,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": true,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "u6jde3os626ipocljnf3f02pa",
-                    "SubmissionTime": "2017-11-09T09:23:48.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "This is a great flavoured cup for enjoying during the day, it has a satisfying flavour without being too strong .",
-                    "Title": "Good Everyday Coffee",
-                    "UserNickname": "sezzy70",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "45to54",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Female",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "True",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco",
-                                "The Co-operative"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 4,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 3,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "ClientResponses": [],
-                    "Photos": [],
-                    "CampaignId": null,
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
                     "Id": "1040852799",
                     "CID": "1238ae04-3a4f-551e-82d8-572d96771fa3",
                     "SourceClient": "nescafe",
@@ -783,6 +683,106 @@
                         },
                         "Quality": {
                             "Value": 5,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "ClientResponses": [],
+                    "Photos": [],
+                    "CampaignId": null,
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1040563137",
+                    "CID": "5ab23cf6-a0e0-52b5-b9d7-e1ed8db8831e",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2017-11-09T16:15:09.000+00:00",
+                    "LastModificationTime": "2017-11-21T09:43:09.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "UserLocation": "Aylesbury, United Kingdom",
+                    "AuthorId": "hqhxyijqy4v1g9isqpvxtksu9",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 4,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "u6jde3os626ipocljnf3f02pa",
+                    "SubmissionTime": "2017-11-09T09:23:48.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "This is a great flavoured cup for enjoying during the day, it has a satisfying flavour without being too strong .",
+                    "Title": "Good Everyday Coffee",
+                    "UserNickname": "sezzy70",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "45to54",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Female",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "True",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco",
+                                "The Co-operative"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 4,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 3,
                             "Id": "Quality",
                             "ValueLabel": null,
                             "ValueRange": 5,
@@ -2697,108 +2697,6 @@
                     "Videos": []
                 },
                 {
-                    "Id": "1040712856",
-                    "CID": "6caca589-a3d5-599e-bf1b-364c27378daf",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2017-11-14T16:30:09.000+00:00",
-                    "LastModificationTime": "2017-11-21T09:34:28.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "UserLocation": "Banbury, United Kingdom",
-                    "AuthorId": "ejsf32xd0999uh78uwj8yvoqp",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 0,
-                    "TotalCommentCount": 0,
-                    "Rating": 4,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": true,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "htgxzddewmnja0bktj8rqnrtw",
-                    "SubmissionTime": "2017-11-13T19:01:31.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "I really like the taste of this coffee. It may be slightly more expensive than others but it is well worth it.",
-                    "Title": "Great product",
-                    "UserNickname": "Aupt",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "45to54",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Male",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "True",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco",
-                                "Sainsbury's",
-                                "Morrisons",
-                                "The Co-operative"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 4,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 4,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "ClientResponses": [],
-                    "Photos": [],
-                    "CampaignId": null,
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
                     "Id": "1040544259",
                     "CID": "9ea4aaff-e1be-5491-8dd4-6bb54a81bfbe",
                     "SourceClient": "nescafe",
@@ -2893,6 +2791,108 @@
                     "InappropriateFeedbackList": [],
                     "Badges": {},
                     "BadgesOrder": [],
+                    "Photos": [],
+                    "CampaignId": null,
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1040712856",
+                    "CID": "6caca589-a3d5-599e-bf1b-364c27378daf",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2017-11-14T16:30:09.000+00:00",
+                    "LastModificationTime": "2017-11-21T09:34:28.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "UserLocation": "Banbury, United Kingdom",
+                    "AuthorId": "ejsf32xd0999uh78uwj8yvoqp",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 4,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "htgxzddewmnja0bktj8rqnrtw",
+                    "SubmissionTime": "2017-11-13T19:01:31.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "I really like the taste of this coffee. It may be slightly more expensive than others but it is well worth it.",
+                    "Title": "Great product",
+                    "UserNickname": "Aupt",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "45to54",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Male",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "True",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco",
+                                "Sainsbury's",
+                                "Morrisons",
+                                "The Co-operative"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 4,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 4,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "ClientResponses": [],
                     "Photos": [],
                     "CampaignId": null,
                     "Cons": null,

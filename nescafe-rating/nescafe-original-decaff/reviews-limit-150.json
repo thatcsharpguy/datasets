@@ -1,6 +1,5 @@
 {
     "Errors": [],
-    "TotalRequests": 2,
     "HasErrors": false,
     "BatchedResultsOrder": [
         "q1",
@@ -518,105 +517,6 @@
                     "Videos": []
                 },
                 {
-                    "Id": "1035376927",
-                    "CID": "33d466b5-fcff-553d-a37d-1ed4de06774d",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2017-07-06T14:45:19.000+00:00",
-                    "LastModificationTime": "2017-07-06T14:45:22.000+00:00",
-                    "ProductId": "40640e88-8830-4a94-b793-8445e685a1d5",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "UserLocation": "Keynsham, United Kingdom",
-                    "AuthorId": "p36ru9m9ofqc173489yfy3edd",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 0,
-                    "TotalCommentCount": 0,
-                    "Rating": 5,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": true,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "5youkeibjks58g4k9cepgrgd7",
-                    "SubmissionTime": "2017-07-04T20:37:24.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "Well it tastes fantastic, not surprising as it is by Nescafe, The surprise is that it is decaff without any after taste, just a wonderful cup of coffee, no after effects except to maybe have another cup",
-                    "Title": "Nescafe Decaff",
-                    "UserNickname": "kj1963",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "45to54",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Female",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "No",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 5,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 5,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "ClientResponses": [],
-                    "Photos": [],
-                    "CampaignId": null,
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
                     "Id": "1035334982",
                     "CID": "3045c93d-3c2e-501c-8753-d9f522cdd54d",
                     "SourceClient": "nescafe",
@@ -671,6 +571,105 @@
                         "eRetailer": {
                             "Values": [
                                 "Asda"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 5,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "ClientResponses": [],
+                    "Photos": [],
+                    "CampaignId": null,
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1035376927",
+                    "CID": "33d466b5-fcff-553d-a37d-1ed4de06774d",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2017-07-06T14:45:19.000+00:00",
+                    "LastModificationTime": "2017-07-06T14:45:22.000+00:00",
+                    "ProductId": "40640e88-8830-4a94-b793-8445e685a1d5",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "UserLocation": "Keynsham, United Kingdom",
+                    "AuthorId": "p36ru9m9ofqc173489yfy3edd",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 5,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "5youkeibjks58g4k9cepgrgd7",
+                    "SubmissionTime": "2017-07-04T20:37:24.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "Well it tastes fantastic, not surprising as it is by Nescafe, The surprise is that it is decaff without any after taste, just a wonderful cup of coffee, no after effects except to maybe have another cup",
+                    "Title": "Nescafe Decaff",
+                    "UserNickname": "kj1963",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "45to54",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Female",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "No",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco"
                             ],
                             "Id": "eRetailer",
                             "Label": null
@@ -6651,6 +6650,7 @@
             "Errors": []
         }
     },
+    "TotalRequests": 2,
     "SuccessfulRequests": 2,
     "FailedRequests": 0
 }

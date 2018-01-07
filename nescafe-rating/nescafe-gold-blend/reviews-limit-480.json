@@ -1042,114 +1042,6 @@
                     "Videos": []
                 },
                 {
-                    "Id": "1042074832",
-                    "CID": "3cc6a307-0bed-513a-8e8f-2142b857b986",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2018-01-04T11:30:37.000+00:00",
-                    "LastModificationTime": "2018-01-04T11:30:39.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "CampaignId": "BV_RATING_SUMMARY",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "ClientResponses": [
-                        {
-                            "Department": "Consumer Services",
-                            "Response": "We\u2019re always wanting to improve the product for our loyal fans! After receiving feedback, we've added roast and ground coffee to our blend, to give it a richer aroma whilst maintaining the same smoothness. Watch this video to learn more: https://www.youtube.com/watch?v=aTUCiAvWyLg&index=22&list=PLBwKOSzTG9BZFv1nKqh8ZxxTOwJaeDaT",
-                            "ResponseType": "",
-                            "ResponseSource": "Workbench",
-                            "Name": "",
-                            "Date": "2018-01-05T12:02:06.000+00:00"
-                        }
-                    ],
-                    "UserLocation": "Bolton",
-                    "AuthorId": "6d264s020vfkumichv7fblhq7",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 9,
-                    "TotalCommentCount": 0,
-                    "Rating": 1,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": false,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "3lfagsrzqjikahltolox7nkgi",
-                    "SubmissionTime": "2018-01-02T10:42:19.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "Why you have changed from the original Nescaf\u00e9 gold to include coffee sludge in the bottom of the cup is a big mistake. Go back to the old saying \u201cif it ain\u2019t broke don\u2019t fix it\u201d",
-                    "Title": "Coffee sediment not needed",
-                    "UserNickname": "Liftman",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "65orOver",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Male",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "No",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 1,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 1,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "Photos": [],
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
                     "Id": "1040545012",
                     "CID": "ad9d4dbb-5d15-5492-b4d9-0cbe8893b906",
                     "SourceClient": "nescafe",
@@ -1426,6 +1318,114 @@
                     "Badges": {},
                     "BadgesOrder": [],
                     "ClientResponses": [],
+                    "Photos": [],
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1042074832",
+                    "CID": "3cc6a307-0bed-513a-8e8f-2142b857b986",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2018-01-04T11:30:37.000+00:00",
+                    "LastModificationTime": "2018-01-04T11:30:39.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "ClientResponses": [
+                        {
+                            "Department": "Consumer Services",
+                            "Response": "We\u2019re always wanting to improve the product for our loyal fans! After receiving feedback, we've added roast and ground coffee to our blend, to give it a richer aroma whilst maintaining the same smoothness. Watch this video to learn more: https://www.youtube.com/watch?v=aTUCiAvWyLg&index=22&list=PLBwKOSzTG9BZFv1nKqh8ZxxTOwJaeDaT",
+                            "ResponseType": "",
+                            "ResponseSource": "Workbench",
+                            "Name": "",
+                            "Date": "2018-01-05T12:02:06.000+00:00"
+                        }
+                    ],
+                    "UserLocation": "Bolton",
+                    "AuthorId": "6d264s020vfkumichv7fblhq7",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 9,
+                    "TotalCommentCount": 0,
+                    "Rating": 1,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "3lfagsrzqjikahltolox7nkgi",
+                    "SubmissionTime": "2018-01-02T10:42:19.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "Why you have changed from the original Nescaf\u00e9 gold to include coffee sludge in the bottom of the cup is a big mistake. Go back to the old saying \u201cif it ain\u2019t broke don\u2019t fix it\u201d",
+                    "Title": "Coffee sediment not needed",
+                    "UserNickname": "Liftman",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "65orOver",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Male",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "No",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 1,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 1,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
                     "Photos": [],
                     "Cons": null,
                     "AdditionalFieldsOrder": [],
@@ -1724,108 +1724,6 @@
                     "BadgesOrder": [],
                     "ClientResponses": [],
                     "Photos": [],
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
-                    "Id": "1042059457",
-                    "CID": "6bceb389-0619-5f48-8cce-c6eef8bb3642",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2018-01-03T17:00:10.000+00:00",
-                    "LastModificationTime": "2018-01-03T17:00:11.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "UserLocation": "Croydon, United Kingdom",
-                    "AuthorId": "tt1gd1io5xm37azcak1lejtc4",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 0,
-                    "TotalCommentCount": 0,
-                    "Rating": 2,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": false,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "hj52hfqjvhq7ue9abe8hc7mbd",
-                    "SubmissionTime": "2018-01-01T17:29:06.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "Gold Blend has been our coffee of choice since its launch!  Sadly the change to the product is lacking in flavour and leaves sediment in the bottom of the cup.  We are seeking an alternative for the first time.",
-                    "Title": "Change of product",
-                    "UserNickname": "Anyonesmum",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "65orOver",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Female",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "No",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Lidl",
-                                "Tesco",
-                                "Sainsbury's",
-                                "The Co-operative"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 3,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 3,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "ClientResponses": [],
-                    "Photos": [],
-                    "CampaignId": null,
                     "Cons": null,
                     "AdditionalFieldsOrder": [],
                     "CommentIds": [],
@@ -2711,6 +2609,108 @@
                         },
                         "Quality": {
                             "Value": 5,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "ClientResponses": [],
+                    "Photos": [],
+                    "CampaignId": null,
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1042059457",
+                    "CID": "6bceb389-0619-5f48-8cce-c6eef8bb3642",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2018-01-03T17:00:10.000+00:00",
+                    "LastModificationTime": "2018-01-03T17:00:11.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "UserLocation": "Croydon, United Kingdom",
+                    "AuthorId": "tt1gd1io5xm37azcak1lejtc4",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 2,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "hj52hfqjvhq7ue9abe8hc7mbd",
+                    "SubmissionTime": "2018-01-01T17:29:06.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "Gold Blend has been our coffee of choice since its launch!  Sadly the change to the product is lacking in flavour and leaves sediment in the bottom of the cup.  We are seeking an alternative for the first time.",
+                    "Title": "Change of product",
+                    "UserNickname": "Anyonesmum",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "65orOver",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Female",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "No",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Lidl",
+                                "Tesco",
+                                "Sainsbury's",
+                                "The Co-operative"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 3,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 3,
                             "Id": "Quality",
                             "ValueLabel": null,
                             "ValueRange": 5,
@@ -6714,6 +6714,6 @@
             "Errors": []
         }
     },
-    "FailedRequests": 0,
-    "SuccessfulRequests": 2
+    "SuccessfulRequests": 2,
+    "FailedRequests": 0
 }

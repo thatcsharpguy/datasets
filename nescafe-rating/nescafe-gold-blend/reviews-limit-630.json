@@ -114,114 +114,6 @@
                     "Videos": []
                 },
                 {
-                    "Id": "1041989219",
-                    "CID": "a70e2e0f-d41f-5eaa-baf2-9deadb9a24ea",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2018-01-01T02:30:21.000+00:00",
-                    "LastModificationTime": "2018-01-01T02:30:21.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "CampaignId": "BV_RATING_SUMMARY",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "ClientResponses": [
-                        {
-                            "Department": "Consumer Services",
-                            "Response": "That's roast and ground coffee at the bottom of your cup and nothing to be alarmed by. We\u2019ve added this to our recipe recently. For more information, watch this video: https://www.youtube.com/watch?v=aTUCiAvWyLg&index=22&list=PLBwKOSzTG9BZFv1nKqh8ZxxTOwJaeDaT",
-                            "ResponseType": "",
-                            "ResponseSource": "Workbench",
-                            "Name": "",
-                            "Date": "2018-01-05T10:54:56.000+00:00"
-                        }
-                    ],
-                    "UserLocation": "Cumbria",
-                    "AuthorId": "f4vvgrx7i8kito512wcwjhg4x",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 9,
-                    "TotalCommentCount": 0,
-                    "Rating": 1,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": false,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "tauwwbr3zmbnpl9f66jgc5yx1",
-                    "SubmissionTime": "2017-12-29T14:28:49.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "I have enjoyed gold blend for years, but since you changed the jar and the coffee, which now leaves a black residue . I don\u2019t like it anymore. It just lacks taste. I wish you\u2019d put it back like it was please.",
-                    "Title": "Tastes different",
-                    "UserNickname": "Sues",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "55to64",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Female",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "No",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 1,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 1,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "Photos": [],
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
                     "Id": "1039722353",
                     "CID": "876b3867-5ee7-59c3-a12c-70d934b85574",
                     "SourceClient": "nescafe",
@@ -612,6 +504,114 @@
                     "ClientResponses": [],
                     "Photos": [],
                     "CampaignId": null,
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1041989219",
+                    "CID": "a70e2e0f-d41f-5eaa-baf2-9deadb9a24ea",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2018-01-01T02:30:21.000+00:00",
+                    "LastModificationTime": "2018-01-01T02:30:21.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "ClientResponses": [
+                        {
+                            "Department": "Consumer Services",
+                            "Response": "That's roast and ground coffee at the bottom of your cup and nothing to be alarmed by. We\u2019ve added this to our recipe recently. For more information, watch this video: https://www.youtube.com/watch?v=aTUCiAvWyLg&index=22&list=PLBwKOSzTG9BZFv1nKqh8ZxxTOwJaeDaT",
+                            "ResponseType": "",
+                            "ResponseSource": "Workbench",
+                            "Name": "",
+                            "Date": "2018-01-05T10:54:56.000+00:00"
+                        }
+                    ],
+                    "UserLocation": "Cumbria",
+                    "AuthorId": "f4vvgrx7i8kito512wcwjhg4x",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 9,
+                    "TotalCommentCount": 0,
+                    "Rating": 1,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "tauwwbr3zmbnpl9f66jgc5yx1",
+                    "SubmissionTime": "2017-12-29T14:28:49.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "I have enjoyed gold blend for years, but since you changed the jar and the coffee, which now leaves a black residue . I don\u2019t like it anymore. It just lacks taste. I wish you\u2019d put it back like it was please.",
+                    "Title": "Tastes different",
+                    "UserNickname": "Sues",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "55to64",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Female",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "No",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 1,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 1,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "Photos": [],
                     "Cons": null,
                     "AdditionalFieldsOrder": [],
                     "CommentIds": [],

@@ -1,5 +1,6 @@
 {
     "Errors": [],
+    "TotalRequests": 2,
     "HasErrors": false,
     "BatchedResultsOrder": [
         "q1",
@@ -515,6 +516,114 @@
                     "Videos": []
                 },
                 {
+                    "Id": "1041095772",
+                    "CID": "b9f76b85-a85d-59e3-ae0e-6c465a602134",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2017-11-28T05:15:29.000+00:00",
+                    "LastModificationTime": "2017-11-28T05:15:35.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "ClientResponses": [
+                        {
+                            "Department": "Consumer Services",
+                            "Response": "Hey, thank you for getting in touch with us. The black residue is roast and ground coffee! It's nothing to be alarmed about and its actually a sign of quality coffee. After testing many recipes with our consumers, this recipe was the one they loved the most. We're really disappointed to hear you are not enjoying it, however we have added roast and ground coffee ground 10 times finer to give it a more intense aroma whilst maintaining the same smoothness. We are passing all comments onto the team and want to thank you again for the comment. ",
+                            "ResponseType": "",
+                            "ResponseSource": "Workbench",
+                            "Name": "",
+                            "Date": "2017-11-28T10:42:19.000+00:00"
+                        }
+                    ],
+                    "UserLocation": "Warwick, United Kingdom",
+                    "AuthorId": "ide8eb7ckuzgxpk0v50oqdftk",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 9,
+                    "TotalCommentCount": 0,
+                    "Rating": 1,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "smbl7jqgk4e66ciicm03q4ke4",
+                    "SubmissionTime": "2017-11-26T08:53:45.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "I have drunk Gold Blend for many years after having tried many inferior brands. I drink a LOT of coffee so why have they changed it? It now tastes thin and bitter and leaves black residue in the bottom of the cup. Bring back Gold Blend please",
+                    "Title": "Why change a good thing",
+                    "UserNickname": "Steph32",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "45to54",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Female",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "No",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Sainsbury's"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 1,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 1,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "Photos": [],
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
                     "Id": "1040613074",
                     "CID": "e1480b07-8a8e-54e3-b704-6fbdecbfd2da",
                     "SourceClient": "nescafe",
@@ -613,114 +722,6 @@
                     "BadgesOrder": [],
                     "Photos": [],
                     "CampaignId": null,
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
-                    "Id": "1041095772",
-                    "CID": "b9f76b85-a85d-59e3-ae0e-6c465a602134",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2017-11-28T05:15:29.000+00:00",
-                    "LastModificationTime": "2017-11-28T05:15:35.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "CampaignId": "BV_RATING_SUMMARY",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "ClientResponses": [
-                        {
-                            "Department": "Consumer Services",
-                            "Response": "Hey, thank you for getting in touch with us. The black residue is roast and ground coffee! It's nothing to be alarmed about and its actually a sign of quality coffee. After testing many recipes with our consumers, this recipe was the one they loved the most. We're really disappointed to hear you are not enjoying it, however we have added roast and ground coffee ground 10 times finer to give it a more intense aroma whilst maintaining the same smoothness. We are passing all comments onto the team and want to thank you again for the comment. ",
-                            "ResponseType": "",
-                            "ResponseSource": "Workbench",
-                            "Name": "",
-                            "Date": "2017-11-28T10:42:19.000+00:00"
-                        }
-                    ],
-                    "UserLocation": "Warwick, United Kingdom",
-                    "AuthorId": "ide8eb7ckuzgxpk0v50oqdftk",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 9,
-                    "TotalCommentCount": 0,
-                    "Rating": 1,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": false,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "smbl7jqgk4e66ciicm03q4ke4",
-                    "SubmissionTime": "2017-11-26T08:53:45.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "I have drunk Gold Blend for many years after having tried many inferior brands. I drink a LOT of coffee so why have they changed it? It now tastes thin and bitter and leaves black residue in the bottom of the cup. Bring back Gold Blend please",
-                    "Title": "Why change a good thing",
-                    "UserNickname": "Steph32",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "45to54",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Female",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "No",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Sainsbury's"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 1,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 1,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "Photos": [],
                     "Cons": null,
                     "AdditionalFieldsOrder": [],
                     "CommentIds": [],
@@ -1442,6 +1443,105 @@
                     "Videos": []
                 },
                 {
+                    "Id": "1020384348",
+                    "CID": "3203b6f9-5c5e-502b-8af2-4014848a61ad",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2016-08-19T14:15:21.000+00:00",
+                    "LastModificationTime": "2017-09-27T13:26:11.000+00:00",
+                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
+                    "CampaignId": "BV_REVIEW_DISPLAY",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "UserLocation": "Dublin, Ireland",
+                    "AuthorId": "26elxrrntx2q89i28m6uxcw65",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 4,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "hk42ja7s1plsxylasndn4mtsl",
+                    "SubmissionTime": "2016-08-17T14:22:55.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "The only granulated coffee that will satisfy a coffee lovers need for a kick. Rich, smooth and can be easily made stronger or weaker based on volume of granules. Its a coffee win when you don't have access to a freshly brewed pot of coffee",
+                    "Title": "Packed with a punch",
+                    "UserNickname": "CPLD",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "25to34",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Female",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "True",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 4,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 4,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
+                    "BadgesOrder": [],
+                    "ClientResponses": [],
+                    "Photos": [],
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
                     "Id": "1039712636",
                     "CID": "7c6c42a5-0cd3-5713-9089-b5df6eb5746c",
                     "SourceClient": "nescafe",
@@ -1530,105 +1630,6 @@
                     "ClientResponses": [],
                     "Photos": [],
                     "CampaignId": null,
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
-                    "Id": "1020384348",
-                    "CID": "3203b6f9-5c5e-502b-8af2-4014848a61ad",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2016-08-19T14:15:21.000+00:00",
-                    "LastModificationTime": "2017-09-27T13:26:11.000+00:00",
-                    "ProductId": "19699905-6be2-4632-a181-d1ea98006500",
-                    "CampaignId": "BV_REVIEW_DISPLAY",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "UserLocation": "Dublin, Ireland",
-                    "AuthorId": "26elxrrntx2q89i28m6uxcw65",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 0,
-                    "TotalCommentCount": 0,
-                    "Rating": 4,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": true,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "hk42ja7s1plsxylasndn4mtsl",
-                    "SubmissionTime": "2016-08-17T14:22:55.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "The only granulated coffee that will satisfy a coffee lovers need for a kick. Rich, smooth and can be easily made stronger or weaker based on volume of granules. Its a coffee win when you don't have access to a freshly brewed pot of coffee",
-                    "Title": "Packed with a punch",
-                    "UserNickname": "CPLD",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "25to34",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Female",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "True",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 4,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 4,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "ClientResponses": [],
-                    "Photos": [],
                     "Cons": null,
                     "AdditionalFieldsOrder": [],
                     "CommentIds": [],
@@ -6752,6 +6753,5 @@
         }
     },
     "SuccessfulRequests": 2,
-    "FailedRequests": 0,
-    "TotalRequests": 2
+    "FailedRequests": 0
 }

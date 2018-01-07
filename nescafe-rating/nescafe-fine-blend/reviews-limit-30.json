@@ -15,105 +15,6 @@
             "Locale": "en_GB",
             "Results": [
                 {
-                    "Id": "1020400482",
-                    "CID": "5877ce66-4911-5870-b972-cc6e8db9c872",
-                    "SourceClient": "nescafe",
-                    "LastModeratedTime": "2016-08-19T18:15:18.000+00:00",
-                    "LastModificationTime": "2016-08-19T18:15:20.000+00:00",
-                    "ProductId": "251208d3-dc54-436d-90a7-15e4feb7bef4",
-                    "CampaignId": "BV_RATING_SUMMARY",
-                    "ContextDataValuesOrder": [
-                        "Age",
-                        "Gender",
-                        "IncentivizedReview"
-                    ],
-                    "UserLocation": "Manchester",
-                    "AuthorId": "l3b990x8331erfqjndpl19bq5",
-                    "ContentLocale": "en_GB",
-                    "IsFeatured": false,
-                    "TotalClientResponseCount": 0,
-                    "TotalCommentCount": 0,
-                    "Rating": 5,
-                    "SecondaryRatingsOrder": [
-                        "Quality",
-                        "Value"
-                    ],
-                    "IsRatingsOnly": false,
-                    "IsRecommended": true,
-                    "TotalFeedbackCount": 0,
-                    "TotalNegativeFeedbackCount": 0,
-                    "TotalPositiveFeedbackCount": 0,
-                    "ModerationStatus": "APPROVED",
-                    "SubmissionId": "t234s4v4x7pzsj9gumlpqwpl3",
-                    "SubmissionTime": "2016-08-17T18:42:26.000+00:00",
-                    "TagDimensionsOrder": [
-                        "eRetailer"
-                    ],
-                    "ReviewText": "I buy this coffee every month. It gets me through the day.",
-                    "Title": "Fine blend. Fine drink",
-                    "UserNickname": "Richelle36",
-                    "ContextDataValues": {
-                        "Age": {
-                            "Value": "45to54",
-                            "Id": "Age"
-                        },
-                        "Gender": {
-                            "Value": "Female",
-                            "Id": "Gender"
-                        },
-                        "IncentivizedReview": {
-                            "Value": "No",
-                            "Id": "IncentivizedReview"
-                        }
-                    },
-                    "TagDimensions": {
-                        "eRetailer": {
-                            "Values": [
-                                "Tesco"
-                            ],
-                            "Id": "eRetailer",
-                            "Label": null
-                        }
-                    },
-                    "SecondaryRatings": {
-                        "Value": {
-                            "Value": 5,
-                            "Id": "Value",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        },
-                        "Quality": {
-                            "Value": 5,
-                            "Id": "Quality",
-                            "ValueLabel": null,
-                            "ValueRange": 5,
-                            "MinLabel": null,
-                            "Label": null,
-                            "MaxLabel": null,
-                            "DisplayType": "NORMAL"
-                        }
-                    },
-                    "InappropriateFeedbackList": [],
-                    "Badges": {},
-                    "BadgesOrder": [],
-                    "ClientResponses": [],
-                    "Photos": [],
-                    "Cons": null,
-                    "AdditionalFieldsOrder": [],
-                    "CommentIds": [],
-                    "Pros": null,
-                    "IsSyndicated": false,
-                    "Helpfulness": null,
-                    "ProductRecommendationIds": [],
-                    "RatingRange": 5,
-                    "AdditionalFields": {},
-                    "Videos": []
-                },
-                {
                     "Id": "1020404432",
                     "CID": "06e8f96e-1a8b-570a-b928-522000ec0ac4",
                     "SourceClient": "nescafe",
@@ -198,6 +99,105 @@
                     "InappropriateFeedbackList": [],
                     "Badges": {},
                     "IsRecommended": null,
+                    "BadgesOrder": [],
+                    "ClientResponses": [],
+                    "Photos": [],
+                    "Cons": null,
+                    "AdditionalFieldsOrder": [],
+                    "CommentIds": [],
+                    "Pros": null,
+                    "IsSyndicated": false,
+                    "Helpfulness": null,
+                    "ProductRecommendationIds": [],
+                    "RatingRange": 5,
+                    "AdditionalFields": {},
+                    "Videos": []
+                },
+                {
+                    "Id": "1020400482",
+                    "CID": "5877ce66-4911-5870-b972-cc6e8db9c872",
+                    "SourceClient": "nescafe",
+                    "LastModeratedTime": "2016-08-19T18:15:18.000+00:00",
+                    "LastModificationTime": "2016-08-19T18:15:20.000+00:00",
+                    "ProductId": "251208d3-dc54-436d-90a7-15e4feb7bef4",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "ContextDataValuesOrder": [
+                        "Age",
+                        "Gender",
+                        "IncentivizedReview"
+                    ],
+                    "UserLocation": "Manchester",
+                    "AuthorId": "l3b990x8331erfqjndpl19bq5",
+                    "ContentLocale": "en_GB",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 5,
+                    "SecondaryRatingsOrder": [
+                        "Quality",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "t234s4v4x7pzsj9gumlpqwpl3",
+                    "SubmissionTime": "2016-08-17T18:42:26.000+00:00",
+                    "TagDimensionsOrder": [
+                        "eRetailer"
+                    ],
+                    "ReviewText": "I buy this coffee every month. It gets me through the day.",
+                    "Title": "Fine blend. Fine drink",
+                    "UserNickname": "Richelle36",
+                    "ContextDataValues": {
+                        "Age": {
+                            "Value": "45to54",
+                            "Id": "Age"
+                        },
+                        "Gender": {
+                            "Value": "Female",
+                            "Id": "Gender"
+                        },
+                        "IncentivizedReview": {
+                            "Value": "No",
+                            "Id": "IncentivizedReview"
+                        }
+                    },
+                    "TagDimensions": {
+                        "eRetailer": {
+                            "Values": [
+                                "Tesco"
+                            ],
+                            "Id": "eRetailer",
+                            "Label": null
+                        }
+                    },
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        },
+                        "Quality": {
+                            "Value": 5,
+                            "Id": "Quality",
+                            "ValueLabel": null,
+                            "ValueRange": 5,
+                            "MinLabel": null,
+                            "Label": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL"
+                        }
+                    },
+                    "InappropriateFeedbackList": [],
+                    "Badges": {},
                     "BadgesOrder": [],
                     "ClientResponses": [],
                     "Photos": [],
@@ -313,410 +313,6 @@
                 }
             ],
             "Includes": {
-                "Products": {
-                    "251208d3-dc54-436d-90a7-15e4feb7bef4": {
-                        "EANs": [
-                            "5011546415505"
-                        ],
-                        "Description": "Delightfully smooth and mild coffee with a silky taste.",
-                        "ImageUrl": "https://productimages.brandbank.com/snapshotimagehandler.ashx?id=0007d6a6-43e0-5a3c-8b16-dcde04036f98",
-                        "Name": "Nescaf\u00e9 Fine Blend",
-                        "Id": "251208d3-dc54-436d-90a7-15e4feb7bef4",
-                        "CategoryId": "ORIGINAL",
-                        "BrandExternalId": "nescafe",
-                        "Brand": {
-                            "Id": "nescafe",
-                            "Name": "Nescafe"
-                        },
-                        "Active": true,
-                        "Disabled": false,
-                        "ProductPageUrl": null,
-                        "ManufacturerPartNumbers": [],
-                        "AttributesOrder": [],
-                        "ISBNs": [],
-                        "FamilyIds": [],
-                        "ModelNumbers": [],
-                        "ReviewIds": [],
-                        "UPCs": [],
-                        "Attributes": {},
-                        "StoryIds": [],
-                        "QuestionIds": [],
-                        "ReviewStatistics": {
-                            "FeaturedReviewCount": 0,
-                            "ContextDataDistributionOrder": [
-                                "Age",
-                                "Gender",
-                                "WhoInHousehold",
-                                "ReadReviews",
-                                "IncentivizedReview",
-                                "OffonlineShopping",
-                                "OptIn"
-                            ],
-                            "ContextDataDistribution": {
-                                "Age": {
-                                    "Id": "Age",
-                                    "Values": [
-                                        {
-                                            "Count": 2,
-                                            "Value": "18to24"
-                                        },
-                                        {
-                                            "Count": 6,
-                                            "Value": "25to34"
-                                        },
-                                        {
-                                            "Count": 7,
-                                            "Value": "35to44"
-                                        },
-                                        {
-                                            "Count": 7,
-                                            "Value": "45to54"
-                                        },
-                                        {
-                                            "Count": 6,
-                                            "Value": "55to64"
-                                        },
-                                        {
-                                            "Count": 5,
-                                            "Value": "65orOver"
-                                        }
-                                    ]
-                                },
-                                "Gender": {
-                                    "Id": "Gender",
-                                    "Values": [
-                                        {
-                                            "Count": 14,
-                                            "Value": "Male"
-                                        },
-                                        {
-                                            "Count": 19,
-                                            "Value": "Female"
-                                        }
-                                    ]
-                                },
-                                "WhoInHousehold": {
-                                    "Id": "WhoInHousehold",
-                                    "Values": [
-                                        {
-                                            "Count": 18,
-                                            "Value": "Myself"
-                                        },
-                                        {
-                                            "Count": 13,
-                                            "Value": "MyselfAndorMyPartner"
-                                        },
-                                        {
-                                            "Count": 2,
-                                            "Value": "OtherAdults"
-                                        }
-                                    ]
-                                },
-                                "ReadReviews": {
-                                    "Id": "ReadReviews",
-                                    "Values": [
-                                        {
-                                            "Count": 7,
-                                            "Value": "YesTheyHelpMeMakeUpMyMind"
-                                        },
-                                        {
-                                            "Count": 4,
-                                            "Value": "YesButIKnowWhatIWant"
-                                        },
-                                        {
-                                            "Count": 13,
-                                            "Value": "OnlyWhenTheProductIsNew"
-                                        },
-                                        {
-                                            "Count": 8,
-                                            "Value": "No"
-                                        }
-                                    ]
-                                },
-                                "IncentivizedReview": {
-                                    "Id": "IncentivizedReview",
-                                    "Values": [
-                                        {
-                                            "Count": 9,
-                                            "Value": "True"
-                                        },
-                                        {
-                                            "Count": 24,
-                                            "Value": "No"
-                                        }
-                                    ]
-                                },
-                                "OffonlineShopping": {
-                                    "Id": "OffonlineShopping",
-                                    "Values": [
-                                        {
-                                            "Count": 23,
-                                            "Value": "IAlwaysBuyCoffeeInstore"
-                                        },
-                                        {
-                                            "Count": 3,
-                                            "Value": "IAlwaysBuyCoffeeOnline"
-                                        },
-                                        {
-                                            "Count": 7,
-                                            "Value": "IBuyCoffeeBothOnlineAndInstore"
-                                        }
-                                    ]
-                                },
-                                "OptIn": {
-                                    "Id": "OptIn",
-                                    "Values": [
-                                        {
-                                            "Count": 24,
-                                            "Value": "Yes"
-                                        },
-                                        {
-                                            "Count": 9,
-                                            "Value": "No"
-                                        }
-                                    ]
-                                }
-                            },
-                            "TotalReviewCount": 33,
-                            "RatingsOnlyReviewCount": 0,
-                            "HelpfulVoteCount": 8,
-                            "FirstSubmissionTime": "2016-07-05T16:19:07.000+00:00",
-                            "LastSubmissionTime": "2017-09-27T09:17:18.000+00:00",
-                            "AverageOverallRating": 4.7272727272727275,
-                            "NotHelpfulVoteCount": 1,
-                            "RecommendedCount": 30,
-                            "SecondaryRatingsAveragesOrder": [
-                                "Quality",
-                                "Value"
-                            ],
-                            "SecondaryRatingsAverages": {
-                                "Value": {
-                                    "Id": "Value",
-                                    "AverageRating": 4.787878787878788,
-                                    "ValueRange": 5,
-                                    "MinLabel": null,
-                                    "DisplayType": "NORMAL",
-                                    "MaxLabel": null
-                                },
-                                "Quality": {
-                                    "Id": "Quality",
-                                    "AverageRating": 4.696969696969697,
-                                    "ValueRange": 5,
-                                    "MinLabel": null,
-                                    "DisplayType": "NORMAL",
-                                    "MaxLabel": null
-                                }
-                            },
-                            "NotRecommendedCount": 1,
-                            "RatingDistribution": [
-                                {
-                                    "RatingValue": 5,
-                                    "Count": 25
-                                },
-                                {
-                                    "RatingValue": 4,
-                                    "Count": 7
-                                },
-                                {
-                                    "RatingValue": 3,
-                                    "Count": 1
-                                }
-                            ],
-                            "TagDistributionOrder": [],
-                            "TagDistribution": {},
-                            "OverallRatingRange": 5
-                        },
-                        "TotalReviewCount": 33,
-                        "FilteredReviewStatistics": {
-                            "FeaturedReviewCount": 0,
-                            "ContextDataDistributionOrder": [
-                                "Age",
-                                "Gender",
-                                "WhoInHousehold",
-                                "ReadReviews",
-                                "IncentivizedReview",
-                                "OffonlineShopping",
-                                "OptIn"
-                            ],
-                            "ContextDataDistribution": {
-                                "Age": {
-                                    "Id": "Age",
-                                    "Values": [
-                                        {
-                                            "Count": 2,
-                                            "Value": "18to24"
-                                        },
-                                        {
-                                            "Count": 6,
-                                            "Value": "25to34"
-                                        },
-                                        {
-                                            "Count": 7,
-                                            "Value": "35to44"
-                                        },
-                                        {
-                                            "Count": 7,
-                                            "Value": "45to54"
-                                        },
-                                        {
-                                            "Count": 6,
-                                            "Value": "55to64"
-                                        },
-                                        {
-                                            "Count": 5,
-                                            "Value": "65orOver"
-                                        }
-                                    ]
-                                },
-                                "Gender": {
-                                    "Id": "Gender",
-                                    "Values": [
-                                        {
-                                            "Count": 14,
-                                            "Value": "Male"
-                                        },
-                                        {
-                                            "Count": 19,
-                                            "Value": "Female"
-                                        }
-                                    ]
-                                },
-                                "WhoInHousehold": {
-                                    "Id": "WhoInHousehold",
-                                    "Values": [
-                                        {
-                                            "Count": 18,
-                                            "Value": "Myself"
-                                        },
-                                        {
-                                            "Count": 13,
-                                            "Value": "MyselfAndorMyPartner"
-                                        },
-                                        {
-                                            "Count": 2,
-                                            "Value": "OtherAdults"
-                                        }
-                                    ]
-                                },
-                                "ReadReviews": {
-                                    "Id": "ReadReviews",
-                                    "Values": [
-                                        {
-                                            "Count": 7,
-                                            "Value": "YesTheyHelpMeMakeUpMyMind"
-                                        },
-                                        {
-                                            "Count": 4,
-                                            "Value": "YesButIKnowWhatIWant"
-                                        },
-                                        {
-                                            "Count": 13,
-                                            "Value": "OnlyWhenTheProductIsNew"
-                                        },
-                                        {
-                                            "Count": 8,
-                                            "Value": "No"
-                                        }
-                                    ]
-                                },
-                                "IncentivizedReview": {
-                                    "Id": "IncentivizedReview",
-                                    "Values": [
-                                        {
-                                            "Count": 9,
-                                            "Value": "True"
-                                        },
-                                        {
-                                            "Count": 24,
-                                            "Value": "No"
-                                        }
-                                    ]
-                                },
-                                "OffonlineShopping": {
-                                    "Id": "OffonlineShopping",
-                                    "Values": [
-                                        {
-                                            "Count": 23,
-                                            "Value": "IAlwaysBuyCoffeeInstore"
-                                        },
-                                        {
-                                            "Count": 3,
-                                            "Value": "IAlwaysBuyCoffeeOnline"
-                                        },
-                                        {
-                                            "Count": 7,
-                                            "Value": "IBuyCoffeeBothOnlineAndInstore"
-                                        }
-                                    ]
-                                },
-                                "OptIn": {
-                                    "Id": "OptIn",
-                                    "Values": [
-                                        {
-                                            "Count": 24,
-                                            "Value": "Yes"
-                                        },
-                                        {
-                                            "Count": 9,
-                                            "Value": "No"
-                                        }
-                                    ]
-                                }
-                            },
-                            "TotalReviewCount": 33,
-                            "RatingsOnlyReviewCount": 0,
-                            "HelpfulVoteCount": 8,
-                            "FirstSubmissionTime": "2016-07-05T16:19:07.000+00:00",
-                            "LastSubmissionTime": "2017-09-27T09:17:18.000+00:00",
-                            "AverageOverallRating": 4.7272727272727275,
-                            "NotHelpfulVoteCount": 1,
-                            "RecommendedCount": 30,
-                            "SecondaryRatingsAveragesOrder": [
-                                "Quality",
-                                "Value"
-                            ],
-                            "SecondaryRatingsAverages": {
-                                "Value": {
-                                    "Id": "Value",
-                                    "AverageRating": 4.787878787878788,
-                                    "ValueRange": 5,
-                                    "MinLabel": null,
-                                    "DisplayType": "NORMAL",
-                                    "MaxLabel": null
-                                },
-                                "Quality": {
-                                    "Id": "Quality",
-                                    "AverageRating": 4.696969696969697,
-                                    "ValueRange": 5,
-                                    "MinLabel": null,
-                                    "DisplayType": "NORMAL",
-                                    "MaxLabel": null
-                                }
-                            },
-                            "NotRecommendedCount": 1,
-                            "RatingDistribution": [
-                                {
-                                    "RatingValue": 5,
-                                    "Count": 25
-                                },
-                                {
-                                    "RatingValue": 4,
-                                    "Count": 7
-                                },
-                                {
-                                    "RatingValue": 3,
-                                    "Count": 1
-                                }
-                            ],
-                            "TagDistributionOrder": [],
-                            "TagDistribution": {},
-                            "OverallRatingRange": 5
-                        }
-                    }
-                },
-                "ProductsOrder": [
-                    "251208d3-dc54-436d-90a7-15e4feb7bef4"
-                ],
                 "Authors": {
                     "apem93018o2pct0566tmjvcvg": {
                         "Id": "apem93018o2pct0566tmjvcvg",
@@ -1461,6 +1057,6 @@
             "Errors": []
         }
     },
-    "SuccessfulRequests": 2,
-    "FailedRequests": 0
+    "FailedRequests": 0,
+    "SuccessfulRequests": 2
 }

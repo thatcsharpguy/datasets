@@ -1,5 +1,6 @@
 {
     "Errors": [],
+    "TotalRequests": 2,
     "HasErrors": false,
     "BatchedResultsOrder": [
         "q1",
@@ -740,97 +741,6 @@
                     "e2506e71-494b-4114-b288-067a97314bff"
                 ],
                 "Authors": {
-                    "atwddchck77yqmo3ra050ksdz": {
-                        "Id": "atwddchck77yqmo3ra050ksdz",
-                        "ContextDataValuesOrder": [
-                            "Age",
-                            "Gender"
-                        ],
-                        "Location": "West Midlands, United Kingdom",
-                        "ContributorRank": "TOP_100",
-                        "UserNickname": "Sindi1",
-                        "LastModeratedTime": "2017-11-10T00:15:06.000+00:00",
-                        "ModerationStatus": "APPROVED",
-                        "SubmissionTime": "2017-11-09T22:09:47.000+00:00",
-                        "ThirdPartyIds": [],
-                        "ContextDataValues": {
-                            "Age": {
-                                "Value": "45to54",
-                                "Id": "Age"
-                            },
-                            "Gender": {
-                                "Value": "Female",
-                                "Id": "Gender"
-                            }
-                        },
-                        "ProductRecommendationIds": [],
-                        "AdditionalFieldsOrder": [],
-                        "BadgesOrder": [],
-                        "Avatar": {},
-                        "StoryIds": [],
-                        "ReviewIds": [],
-                        "CommentIds": [],
-                        "Photos": [],
-                        "SubmissionId": null,
-                        "QuestionIds": [],
-                        "SecondaryRatings": {},
-                        "AdditionalFields": {},
-                        "Badges": {},
-                        "Videos": [],
-                        "AnswerIds": [],
-                        "SecondaryRatingsOrder": [],
-                        "ReviewStatistics": {
-                            "RecommendedCount": 2,
-                            "RatingDistribution": [
-                                {
-                                    "RatingValue": 5,
-                                    "Count": 2
-                                }
-                            ],
-                            "NotHelpfulVoteCount": 1,
-                            "RatingsOnlyReviewCount": 0,
-                            "HelpfulVoteCount": 0,
-                            "TotalReviewCount": 2,
-                            "NotRecommendedCount": 0,
-                            "AverageOverallRating": 5.0,
-                            "FirstSubmissionTime": "2016-08-17T17:12:34.000+00:00",
-                            "LastSubmissionTime": "2017-11-09T22:09:47.000+00:00",
-                            "FeaturedReviewCount": 0,
-                            "ContextDataDistribution": {},
-                            "ContextDataDistributionOrder": [],
-                            "SecondaryRatingsAveragesOrder": [],
-                            "TagDistributionOrder": [],
-                            "SecondaryRatingsAverages": {},
-                            "TagDistribution": {},
-                            "OverallRatingRange": 5
-                        },
-                        "TotalReviewCount": 2,
-                        "FilteredReviewStatistics": {
-                            "RecommendedCount": 1,
-                            "RatingDistribution": [
-                                {
-                                    "RatingValue": 5,
-                                    "Count": 1
-                                }
-                            ],
-                            "NotHelpfulVoteCount": 0,
-                            "RatingsOnlyReviewCount": 0,
-                            "HelpfulVoteCount": 0,
-                            "TotalReviewCount": 1,
-                            "NotRecommendedCount": 0,
-                            "AverageOverallRating": 5.0,
-                            "FirstSubmissionTime": "2016-08-17T17:12:34.000+00:00",
-                            "LastSubmissionTime": "2016-08-17T17:12:34.000+00:00",
-                            "FeaturedReviewCount": 0,
-                            "ContextDataDistribution": {},
-                            "ContextDataDistributionOrder": [],
-                            "SecondaryRatingsAveragesOrder": [],
-                            "TagDistributionOrder": [],
-                            "SecondaryRatingsAverages": {},
-                            "TagDistribution": {},
-                            "OverallRatingRange": 5
-                        }
-                    },
                     "ab675fyqg4pslkp7a3ca633le": {
                         "Id": "ab675fyqg4pslkp7a3ca633le",
                         "ContextDataValuesOrder": [
@@ -1108,7 +1018,6 @@
                 "AuthorsOrder": [
                     "lmjan7khn5hzdoywbl9gqromt",
                     "l7i6wvf8ro1wvm0ydgndy37yz",
-                    "atwddchck77yqmo3ra050ksdz",
                     "ab675fyqg4pslkp7a3ca633le"
                 ]
             },
@@ -1575,7 +1484,6 @@
             "Errors": []
         }
     },
-    "TotalRequests": 2,
-    "SuccessfulRequests": 2,
-    "FailedRequests": 0
+    "FailedRequests": 0,
+    "SuccessfulRequests": 2
 }
